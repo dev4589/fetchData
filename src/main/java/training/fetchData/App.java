@@ -13,5 +13,6 @@ public class App
         int i=10;
         System.out.println(i);
         System.out.println("hello from up top");
+        System.out.println("new config");
     }
 }
