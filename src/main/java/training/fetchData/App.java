@@ -11,5 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("south east asia");
         System.out.println("country india");
+//        int i=10;
+//        System.out.println(i);
     }
 }
