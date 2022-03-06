@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("hello");
+        int i=10;
+        System.out.println(i);
     }
 }
