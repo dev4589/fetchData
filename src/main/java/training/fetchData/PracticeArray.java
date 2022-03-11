@@ -1,9 +1,6 @@
 package training.fetchData;
 
 import java.util.Arrays;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.GregorianCalendar;
 
 class PracticeArray {
 	public static void main(String[] args) {
@@ -12,9 +9,17 @@ class PracticeArray {
 		for (int ele : arr) {
 			System.out.println(ele + 1);
 		}
-		Date date = new Date();
-		GregorianCalendar greg = new GregorianCalendar();
-		System.out.println(greg.get(Calendar.DATE));
-		System.out.println(greg.getMaximum(arr[1]));
+		
+		int[] arr2=reverse(arr);
+		System.out.println("Reverse array");
+		for(int i:arr2)
+			System.out.println(i);
+	}
+	public static int[] reverse(int[] arr) {
+		int [] arr2=new int[arr.length];
+		
+		for(int i=0,j=arr.length-1;i<arr.length;i++,j--)
+			arr2[j]=arr[i];
+		return arr2;
 	}
 }
