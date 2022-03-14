@@ -26,5 +26,6 @@ public class DemoObject{
 		System.out.println(test.getAge());
 		DemoObject printLine=new DemoObject();
 		printLine.print();
+		
 	}
 }

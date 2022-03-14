@@ -6,9 +6,6 @@ public class StringEx {
 		
 		Formatter f=new Formatter();
 		System.out.println(f.format("%#e",4F));
-		
-		
-		
-		
+	
 	}
 }
