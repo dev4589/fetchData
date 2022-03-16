@@ -20,5 +20,6 @@ public class CheckInher {
         Animal a = new Animal();  
         a.eat();
         a.travel();
-    }  
+        
+    }
 }
