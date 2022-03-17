@@ -11,10 +11,13 @@ import java.util.regex.Pattern;
 public class CountThe {
 
 	public static final String PATH = "src/main/java/training/problems/problem_input/2/";
-	public static final long startT = System.currentTimeMillis();
-
+	public static final long START_T = System.nanoTime();
+	public static final String REGEX= "^[Tt]he\\s\\W*";
+	private static Pattern pattern;
 	public static void main(String args[]) throws IOException, InterruptedException {
 		int count = 0;
+		pattern=Pattern.compile(REGEX);
+		
 		List<String> results = new ArrayList<String>();
 		File[] files = new File(PATH).listFiles();
 		for (File file : files)
@@ -26,13 +29,15 @@ public class CountThe {
 			String line = "";
 
 			while ((line = reader.readLine()) != null) {
-				if (Pattern.compile("^The ").matcher(line).find())
+//				if (line.startsWith("The"))
+				if (pattern.matcher(line).find())
 					count++;
 			}
+			reader.close();
 		}
-		final long endT = System.currentTimeMillis();
+		final long end_T = System.nanoTime();
 		System.out.println("Occurance of 'The' in all files are " + count);
-		System.out.println("Process time in millisecond " + (endT - startT));
-
+		System.out.println("Process time in millisecond " + (end_T - START_T));
+		
 	}
 }
