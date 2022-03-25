@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class MethodEx {
 	public static void main(String[] args) {
+
+		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		int n=sc.nextInt();
 		CheckNum check=new CheckNum(n);

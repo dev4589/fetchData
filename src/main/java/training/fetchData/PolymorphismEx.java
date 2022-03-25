@@ -16,6 +16,7 @@ public class PolymorphismEx {
 	public static void main(String args[]) {
 		sub a = new sub();
 		sub b=(sub)new sup();
+		@SuppressWarnings("unused")
 		sup c=new sub();
 		a.move();
 		b.move();

@@ -1,7 +1,5 @@
 package training.fetchData;
 
-import java.io.*;
-
 public class ExceptionEx {
 	public static void main(String args[]) {
 		int arr[] = { 1, 5, 8, -9 };

@@ -2,7 +2,9 @@ package training.collections;
 
 import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class ListOrArray {
 	public static void main(String args[]) {
@@ -13,7 +15,9 @@ public class ListOrArray {
 //		for (Integer i : list)
 //			System.out.println(i instanceof Integer);
 
+		@SuppressWarnings("unused")
 		List<Integer> list2 = new ArrayList<Integer>();
+		@SuppressWarnings("unused")
 		List<Integer> newL = (List<Integer>) list;
 
 		ArrayList<Serializable> lisb = new ArrayList<Serializable>();
@@ -54,7 +58,17 @@ public class ListOrArray {
 //		List<?> th4 = (ArrayList<?>) lisb.get(4);
 //		for (Object a : th4)
 //			System.out.println(a);
-		
+		Map<String,Integer> mapValueRank=new HashMap<>();
+//		mapValueRank.put("hello", 5);
+		if(mapValueRank.containsKey("hello")) {
+			int check=mapValueRank.get("hello");
+			if(check<10)
+				mapValueRank.put("hello", 10);
+		}
+		else {
+//			mapValueRank.put("hello", 10);
+		}
+		System.out.println(mapValueRank);
 		
 		
 	}

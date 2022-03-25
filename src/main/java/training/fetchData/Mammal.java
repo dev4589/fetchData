@@ -14,6 +14,7 @@ class Mammal implements Animal {
 		return 4;
 	}
 
+	@SuppressWarnings("static-access")
 	public static void main(String args[]) {
 		Mammal m = new Mammal();
 		m.eat();

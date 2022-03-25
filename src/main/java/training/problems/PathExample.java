@@ -1,14 +1,8 @@
 package training.problems;
 
-
-import java.io.File;
 import java.io.IOException;
-import java.nio.file.FileSystem;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.nio.Buffer;
-import java.nio.ByteBuffer;
-import java.nio.file.LinkOption;
 
 public class PathExample {
    public static void main(String[] args) throws IOException {
