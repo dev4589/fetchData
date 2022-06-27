@@ -1,0 +1,274 @@
+0019T	musculoskeletal system
+0051T	heart, artificial
+0051T	heart, artificial
+0191T	eye glaucoma
+15777	acellular dermis
+33207	heart
+33207	intracardiac
+33207	transvenous electrode
+33207	ventricular
+33216	electrode
+33216	transvenous
+33208	dual-chamber pacemaker
+33211	dual chamber pacemaker
+33216	cardioverter-defibrillator
+33216	cardioverter-defibrillator
+63655	laminectomy
+33282	cardiac
+33282	cardiac
+33282	event recorder
+33282	cardiac
+33282	monitoring device
+33282	monitoring device
+33282	patient activated
+33282	pt activated
+33927	replacement
+33880, 33881	endovascular graft
+33886	distal endovascular extension
+33927	artificial heart
+36555, 36556	non-tunneled
+36555, 36556	jugular
+36555, 36556	subclavian
+36555, 36556	central
+36568, 36569	peripheral
+36555, 36556	non-tunneled
+36555, 36556	central
+36555, 36556	jugular
+36555, 36556	subclavian
+36568, 36569	peripheral
+36555, 36556	non-tunneled
+36555, 36556	jugular
+36555, 36556	subclavian
+36555, 36556	central
+36568, 36569	peripheral
+36555, 36556	non-tunneled
+36555, 36556	central
+36555, 36556	jugular
+36555, 36556	subclavian
+36568, 36569	peripheral
+36557, 36558	catheter
+36557, 36558	jugular
+36557, 36558	subclavian
+36557, 36558	central
+36561	jugular
+36561	subclavian
+36561	central
+36557, 36558	central line
+36557, 36558	central
+36557, 36558	jugular
+36557, 36558	subclavian
+36561	central
+36561	jugular
+36561	subclavian
+36557, 36558	catheter
+36557, 36558	jugular
+36557, 36558	subclavian
+36557, 36558	central
+36561	jugular
+36561	subclavian
+36561	central
+36557, 36558	central line
+36557, 36558	central
+36557, 36558	jugular
+36557, 36558	subclavian
+36561	central
+36561	jugular
+36561	subclavian
+36561	central venous access device
+43246	gastrostomy tube
+43246	percutaneous
+63685	spinal cord stimulator
+63685	battery
+63685	pulse generator
+63685	epidural
+63685	epidural stimulator
+63685	battery
+63685	epidural stimulator
+63685	spinal cord
+63685	neurostimulator
+64561	neurostimulator electrode
+66984	cataract
+66982	complex
+66982	cataract
+0051T	entire heart
+0051T	heart
+33361	percutaneous femoral artery approach
+33362	open femoral artery approach
+33363	open axillary artery approach
+33364	open iliac artery approach
+33365	transaortic approach
+33361	percutaneous femoral artery approach
+33362	open femoral artery approach
+33363	open axillary artery approach
+33364	open iliac artery approach
+33365	transaortic approach
+61107	puncture wound
+64553	cranial nerves
+64553	entire cranial nerve
+64561	entire sacral nerve
+64561	sacral nerve
+64581	entire sacral nerve
+64581	sacral nerve
+64568, 64569	cranial nerves
+64568, 64569	entire cranial nerve
+0053T	heart, artificial
+0052T, 0053T	intracorporeal
+0052T	thoracic
+11760	nail bed
+11760	nail bed
+12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037	axillae
+12001, 12002, 12004, 12005, 12006, 12007	external genitalia
+12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037	feet
+12001, 12002, 12004, 12005, 12006, 12007	finger
+12001, 12002, 12004, 12005, 12006, 12007	hand
+12001, 12002, 12004, 12005, 12006, 12007	leg
+12001, 12002, 12004, 12005, 12006, 12007	neck
+12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037	scalp
+12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037	trunk
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	ears
+12011, 12013, 12014, 12015, 12016, 12017, 12018	eyebrow
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	eyelids
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	face
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	lips
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	mucous membrane
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	muscles
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	nose
+12031, 12032, 12034, 12035, 12036, 12037	hands
+12051, 12052, 12053, 12054, 12055, 12056, 12057	forehead
+12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037	scalp
+12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037	trunk
+12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037	axillae
+12001, 12002, 12004, 12005, 12006, 12007	external genitalia
+12001, 12002, 12004, 12005, 12006, 12007, 12031, 12032, 12034, 12035, 12036, 12037	feet
+12001, 12002, 12004, 12005, 12006, 12007	finger
+12001, 12002, 12004, 12005, 12006, 12007	hand
+12001, 12002, 12004, 12005, 12006, 12007	leg
+12001, 12002, 12004, 12005, 12006, 12007	neck
+12001, 12002, 12004	scalp
+12001, 12002, 12004	neck
+12001, 12002, 12004	axillae
+12001, 12002, 12004	external genitalia
+12001, 12002, 12004	trunk
+12001, 12002, 12004	extremity
+12011, 12013, 12014	face
+12011, 12013, 12014	ear
+12011, 12013, 12014	eyelid
+12011, 12013, 12014	nose
+12011, 12013, 12014	lips
+12011, 12013, 12014	mucous membrane
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	ears
+12011, 12013, 12014, 12015, 12016, 12017, 12018	eyebrow
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	eyelids
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	face
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	lips
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	mucous membrane
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	muscles
+12011, 12013, 12014, 12015, 12016, 12017, 12018, 12051, 12052, 12053, 12054, 12055, 12056, 12057	nose
+12031, 12032, 12034, 12035, 12036, 12037	hands
+12031, 12032, 12034	scalp
+12031, 12032, 12034	axillae
+12031, 12032, 12034	trunk
+12031, 12032, 12034	extremity
+12032	thigh
+12041, 12042, 12044	neck
+12041, 12042, 12044	hand
+12041, 12042, 12044	feet
+12041, 12042, 12044	external genitalia
+12051, 12052, 12053	face
+12051, 12052, 12053	ear
+12051, 12052, 12053	eyelid
+12051, 12052, 12053	nose
+12051, 12052, 12053	lips
+12051, 12052, 12053	mucous membrane
+12020	superficial wound
+12031, 12032, 12034	scalp
+12031, 12032, 12034	axillae
+12031, 12032, 12034	trunk
+12031, 12032, 12034	extremity
+12041, 12042, 12044	neck
+12041, 12042, 12044	hand
+12041, 12042, 12044	feet
+12041, 12042, 12044	external genitalia
+12051, 12052, 12053	face
+12051, 12052, 12053	ear
+12051, 12052, 12053	eyelid
+12051, 12052, 12053	nose
+12051, 12052, 12053	lips
+12051, 12052, 12053	mucous membrane
+23412	open
+23485	clavicle
+24340	biceps tendon
+24342	distal
+25260	flexor tendon
+25260, 25270	wrist
+25405	malunion
+26350	fds
+26370	fdp
+26350	flexor pollicis longus
+26418	extensor
+26440	palm
+27380	patellar
+26418	extensor tendon
+35207	digital artery
+26540	ulnar
+26540	mcp joint
+26591	abductor digiti minimi
+26591	flexor digiti minimi
+26591	intrinsic
+26591	opponens digiti minimi
+27405	reconstruction
+27695	deltoid
+27652	achilles tendon
+27695	medial
+28292	bunion
+30600	oronasal
+33615	tricuspid atresia
+33641	septal
+34701	aorto aortic tube endograft
+34702	aneurysm
+34702	dissection
+34702	penetrating ulcer
+34702	pseudoaneurysm
+34702	rupture
+34703	aorto uni iliac endograft
+34704	aneurysm
+34704	dissection
+34704	penetrating ulcer
+34704	pseudoaneurysm
+34704	rupture
+34705	aorto bi iliac endograft
+34706	aneurysm
+34706	dissection
+34706	penetrating ulcer
+34706	pseudoaneurysm
+34706	rupture
+34707	ilio iliac tube endograft
+34708	aneurysm
+34708	dissection
+34708	penetrating ulcer
+34708	pseudoaneurysm
+34708	rupture
+35226	artery
+35226	vein
+35226	lower extremity
+35226	lower extremity
+36575	venous access device
+36576	subcutaneous port
+36576	subcutaneous pump
+36576	central venous
+36832	arteriovenous aneurysm
+40527	cross lip pedicle flap
+40650	lip
+44050	volvulus
+44604	serosal
+45560	rectocele
+46707	anal
+46707	anorectal fistula
+64912	allograft
+64912	homograft
+64913	allograft
+64913	homograft
+65275	corneal laceration
+66250	operative wound
+67900	brow ptosis
+68700	lacrimal canaliculi

@@ -1,5 +1,8 @@
 package training.fetchData;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class TypeCast {
 
 	public static void main(String args[]) {
@@ -11,5 +14,7 @@ public class TypeCast {
 		String a = "xyz";
 		String b = "abc";
 		System.out.println(a.concat(b));
+		
+		
 	}
 }

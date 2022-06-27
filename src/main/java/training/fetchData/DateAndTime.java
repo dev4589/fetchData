@@ -1,8 +1,9 @@
 package training.fetchData;
 
 import java.text.*;
-import java.util.*;
 
+import java.util.*;
+import java.time.LocalDate;
 public class DateAndTime {
 	public static void main(String[]args) {
 		Date date = new Date();
@@ -31,6 +32,8 @@ public class DateAndTime {
 		catch(ParseException p){
 			System.out.println("Unparseable using "+ft);
 		}
+		LocalDate d=LocalDate.now();
+		System.out.printf("%s",d.plusDays(7));
 		
 	}
 }

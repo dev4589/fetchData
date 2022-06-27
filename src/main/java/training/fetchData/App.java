@@ -11,9 +11,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        String url="jdbc:mysql://localhost:3306/universityData";
-        String user="root";
-        String pwd="rootdevansh";
+    	 String url="jdbc:mysql://ezcapc-webdb-production-readrep.cncmk5ndlbjo.us-east-1.rds.amazonaws.com:3306/CAPC_APIGATEWAY";
+	        String user="read_only";
+	        String pwd="P@ssw0rd@123";
         
         try {
         	Class.forName("com.mysql.jdbc.Driver");

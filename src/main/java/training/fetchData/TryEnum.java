@@ -17,6 +17,6 @@ public class TryEnum{
 		Color color=Color.ORANGE;
 	 	System.out.println("Size: "+data.size);
 	 	System.out.println("Shape: "+data.shape);
-	 	System.out.println("Color: "+color);
+	 	System.out.println("Color: "+color instanceof String);
 	}
 }

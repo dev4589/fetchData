@@ -1,0 +1,10 @@
+extracorporeal shock wave@@ezCPT070001@@C2223250
+	musculoskeletal system ~ 0019T@@ezCPT070002@@C0026860 OR C1269564
+implantation@@ezCPT070003@@C0021107
+	cardiectomy@@ezCPT070004@@C0565317
+		heart, artificial ~ 0051T@@ezCPT070005@@C0018829
+	replacement@@ezCPT070006@@C0559956
+		cardiectomy@@ezCPT070007@@C0565317
+			heart, artificial ~ 0051T@@ezCPT070008@@C0018829
+	drainage device@@ezCPT070009@@S1000467
+		eye glaucoma ~ 0191T@@ezCPT070010@@C0857112

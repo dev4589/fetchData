@@ -13,18 +13,19 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class JsonExample {
 	public static final String PATH = "src/main/java/training/problems/";
+
 	public static void main(String args[]) {
 
-		ObjectMapper navi=new ObjectMapper();
-		File file=new File(PATH+"ex.txt");
+		ObjectMapper navi = new ObjectMapper();
+		File file = new File(PATH + "ex.txt");
 		try {
-						List<Object> list=(List<Object>) navi.readValue(file, new TypeReference<ArrayList<Object>>() {
+			List<Object> list = (List<Object>) navi.readValue(file, new TypeReference<ArrayList<Object>>() {
 			});
-			
+
 			@SuppressWarnings("unchecked")
-			Map<String, Object> map=(Map<String,Object>) list.get(2) ;
+			Map<String, Object> map = (Map<String, Object>) list.get(2);
 			System.out.println(map.get("age"));
-			
+
 		} catch (JsonParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -36,5 +37,5 @@ public class JsonExample {
 			e.printStackTrace();
 		}
 	}
-	
+
 }
